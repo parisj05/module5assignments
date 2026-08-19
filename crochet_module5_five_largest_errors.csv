@@ -1,0 +1,6 @@
+Website,URL,Google Rank,In-Degree,Out-Degree,Total Degree,Website Name Length,URL Length,Contains Crochet,Contains Yarn,Contains Pattern,PageRank,Predicted PageRank,Absolute Error
+Ravelry,https://www.ravelry.com,10,4,0,4,7,23,0,0,0,0.1159293178180271,0.08064005291795694,0.03528926490007016
+LoveCrafts,https://www.lovecrafts.com,2,2,0,2,10,26,0,0,0,0.0581064777241886,0.07384961634114016,0.015743138616951563
+Premier Yarns,https://www.premieryarns.com,5,1,0,1,13,28,0,1,0,0.043650767700729,0.052634320534258795,0.008983552833529793
+Yarnspirations,https://www.yarnspirations.com,6,0,0,0,14,30,0,1,0,0.0340136276850893,0.02742706471198987,0.0065865629730994316
+MJ's Off The Hook Designs,https://www.mjsoffthehookdesigns.com,17,0,0,0,25,36,0,0,0,0.0340136276850893,0.03017287788953061,0.0038407497955586928
